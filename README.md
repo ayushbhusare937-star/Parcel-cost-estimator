@@ -14,7 +14,6 @@ the numbers are just "currency units". Change them to suit your project.
 
 import math
 
-
 # ----------------------------------------------------------------------
 # Example pricing constants - change these numbers to test other prices
 # ----------------------------------------------------------------------
